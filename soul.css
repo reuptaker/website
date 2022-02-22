@@ -1,0 +1,40 @@
+.alpha {
+  height: 800px;
+  width: 600px;
+  margin:0px;
+  padding: 0px;
+  line-height: 0;
+  position: fixed;
+  left:33%;
+}
+
+body {
+  background-color:#114352;
+}
+
+.nav {
+	background-color:#235666;
+	border-style: solid;
+	border-width: 2px 2px;
+	border-color:#424242;
+	width: 100%;
+	height: 40px;
+}
+
+.matter {
+	margin: 0px;
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color:#235666;
+	height:580px;
+	border-style: solid;
+	border-width: 4px 4px;
+	border-color:#424242;
+}
+
+a {
+	display: block;
+	padding: 15px;
+	float:left;
+}
